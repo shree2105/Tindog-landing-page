@@ -3,7 +3,7 @@
 A responsive landing page for a fictional dog dating app — created as a Udemy exercise.
 
 ## Live Demo
-https://yourusername.github.io/tindog
+https://shree2105.github.io/Tindog-landing-page/
 
 ## Features
 - Mobile-friendly Bootstrap layout
